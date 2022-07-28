@@ -1,0 +1,40 @@
+body{
+  background-color:powderblue
+}
+img{
+   height: 100px;
+}
+.caddo{
+  border-radius: 100px;
+}
+img:hover{
+  background-color: gold;
+}
+ img:hover{
+   background-color:yellow;
+
+ }
+table{
+  height: 3px;
+}
+h4{
+  text-decoration: underline 3px;
+}
+span{
+  background-color: #F1F1F1;
+  border: solid 2px;
+  border-collapse: separate;
+  border-spacing: 10px;
+   padding: .1em;
+}
+span{
+  background-color: #F1F1F1;
+  border: solid 2px;
+  border-collapse: separate;
+  border-spacing: 10px;
+   padding: .1em;
+
+}
+div{
+  background-color: #F7E2D6;
+}
