@@ -1,24 +1,26 @@
 body{
-  background-color:powderblue
+  background-color:powderblue;
+
 }
-img{
-   height: 100px;
-}
+
 .caddo{
+  height: 100px;
   border-radius: 100px;
 }
-img:hover{
-  background-color: gold;
-}
- img:hover{
-   background-color:yellow;
+a{
+  color:black;
+  text-decoration: none;
 
+}
+ a:hover{
+   color:#876445;
  }
 table{
   height: 3px;
 }
 h4{
   text-decoration: underline 3px;
+  font-family: sans-serif;
 }
 span{
   background-color: #F1F1F1;
@@ -26,7 +28,7 @@ span{
   border-collapse: separate;
   border-spacing: 10px;
    padding: .1em;
-  font-family:cursive;
+   font-family: cursive;
 }
 span{
   background-color: #F1F1F1;
@@ -38,4 +40,15 @@ span{
 }
 div{
   background-color: #F7E2D6;
+}
+
+h1{
+  font-family:serif;
+}
+img{
+  height:20px;
+}
+.high{
+  background-color: powderblue;
+
 }
